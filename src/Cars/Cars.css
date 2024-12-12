@@ -1,0 +1,106 @@
+.Cars-compania {
+    gap: 50px;
+}
+.cars-card {
+    width: 1200px;
+    height: 259px;
+    border: 1px solid grey;
+    padding: -00px;
+    margin-left: 200px;
+    border-radius: 20px;
+    z-index: 2;
+}
+.cars-img {
+    width: 350px;
+    border-radius: 20px;
+    margin-left: -1px;
+    margin-top: -1px;
+}
+.cars-name {
+    width: 200px;
+    position: absolute;
+    color: rgb(163, 160, 160);
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 365px;
+    margin-top: -510px;
+}
+.cars-carsUrl {
+    position: relative;
+    width: 30px;
+    cursor: pointer;
+    margin-left: 1087px;
+    top: -250px;
+    z-index: 3;
+}
+.cars-carsUrl2 {
+    position: relative;
+    width:30px;
+    cursor: pointer;
+    top: -250px;
+    margin-left: 25px;
+}
+.bai {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cars-text {
+    width: 1000px;
+    position: absolute;
+    margin-left: 365px;
+    margin-top: -265px;
+    color: rgb(48, 158, 237);
+    font-size: 26px;
+    font-weight: 500;
+}
+.cars-btn {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 365px;
+    margin-top: -225px;
+}
+.btn {
+    padding: 5px 20px;
+    border: 1px solid rgb(48, 158, 237);
+    border-radius: 8px;
+    color: rgb(48, 158, 237);
+}
+.auto {
+    width: 400px;
+    color: rgb(48, 158, 237);
+}
+.som {
+    width: 200px;
+    position: absolute;
+    margin-left: 365px;
+    margin-top: -162px;
+}
+.dollar {
+    width: 150px;
+    position: absolute;
+    margin-left: 365px;
+    margin-top: -122px;
+    color: rgb(163, 160, 160);
+    font-size: 15px;
+    font-weight: 500;
+}
+.Chyi {
+    display: flex;
+    align-items: center;
+    margin-left: 365px;
+    margin-top: -110px;
+}
+.Bishkek {
+    color: rgb(163, 160, 160);
+    font-size: 19px;
+    font-weight: 500;
+}
+.Kant {
+    color: rgb(7, 191, 7);
+    font-size: 26px;
+    font-weight: 600;
+    margin-left: 460px;
+}
