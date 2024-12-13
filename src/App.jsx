@@ -86,7 +86,7 @@ const carsData = [
 
 const App = () => {
   return (
-    <div style={{ display: 'flex', gap: '20px' }}>
+    <div style={{ margin:'0 auto' }}>
       {carsData.map(cars => {
         return <Cars
         imgUrl={cars.imgUrl}

@@ -1,14 +1,27 @@
 .Cars-compania {
+    position: relative;
+    margin: 0 auto;
     gap: 50px;
+    margin: 0 auto;
+    width: 1200px;
+    
 }
 .cars-card {
+    position: relative;
+    margin: 0 auto;
     width: 1200px;
     height: 259px;
-    border: 1px solid grey;
-    padding: -00px;
     margin-left: 200px;
     border-radius: 20px;
     z-index: 2;
+    margin-top: 50px;
+    box-shadow: 0 4px 8px  rgb(208, 208, 208);
+    transition: transform 0.3s;
+    cursor: pointer;
+   
+}
+.cars-card:hover {
+    transform: scale(1.03);
 }
 .cars-img {
     width: 350px;
